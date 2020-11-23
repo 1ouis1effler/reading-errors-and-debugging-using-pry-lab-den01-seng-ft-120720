@@ -1,5 +1,4 @@
 require 'pry'
-binding.pry 
 
 #{player1} = Rocky
 #{player2} = Bullwinkle 
