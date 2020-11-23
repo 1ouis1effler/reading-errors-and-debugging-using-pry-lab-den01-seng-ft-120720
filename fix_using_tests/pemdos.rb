@@ -5,6 +5,7 @@ def snake_it_up(string)
     10 * "s" + string
   else
     binding.pry 
+    "hello world"
     string
   end
 end
